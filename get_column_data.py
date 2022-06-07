@@ -1,5 +1,5 @@
 """
-This script saves a specified column of data from a UBAT .dat file into a csv file
+This script saves a specified column of data from a UBAT .dat file into a .csv file
 
 Input
 ----------

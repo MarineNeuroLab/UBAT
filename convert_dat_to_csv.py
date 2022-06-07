@@ -1,5 +1,5 @@
 """
-This script takes converts a UBAT .dat file to a .csv file 
+This script converts a UBAT .dat file to a .csv file 
 
 Input
 ----------
